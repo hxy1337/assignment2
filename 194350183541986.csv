@@ -1,12 +1,4 @@
-
-"TS066 - Economic activity status"
-"ONS Crown Copyright Reserved [from Nomis on 7 May 2025]"
-"Population :","All usual residents aged 16 years and over"
-"Units      :","Persons"
-"Date       :","2021"
-
 "row","Total: All usual residents aged 16 years and over","Economically active (excluding full-time students)","Economically active (excluding full-time students):In employment","Economically active (excluding full-time students):In employment:Employee","Economically active (excluding full-time students): In employment: Employee: Part-time","Economically active (excluding full-time students): In employment: Employee: Full-time","Economically active (excluding full-time students):In employment:Self-employed with employees","Economically active (excluding full-time students): In employment: Self-employed with employees: Part-time","Economically active (excluding full-time students): In employment: Self-employed with employees: Full-time","Economically active (excluding full-time students):In employment:Self-employed without employees","Economically active (excluding full-time students): In employment: Self-employed without employees: Part-time","Economically active (excluding full-time students): In employment: Self-employed without employees: Full-time","Economically active (excluding full-time students): Unemployed","Economically active and a full-time student","Economically active and a full-time student:In employment","Economically active and a full-time student:In employment:Employee","Economically active and a full-time student: In employment: Employee: Part-time","Economically active and a full-time student: In employment: Employee: Full-time","Economically active and a full-time student:In employment:Self-employed with employees","Economically active and a full-time student: In employment: Self-employed with employees: Part-time","Economically active and a full-time student: In employment: Self-employed with employees: Full-time","Economically active and a full-time student:In employment:Self-employed without employees","Economically active and a full-time student: In employment: Self-employed without employees: Part-time","Economically active and a full-time student: In employment: Self-employed without employees: Full-time","Economically active and a full-time student: Unemployed","Economically inactive","Economically inactive: Retired","Economically inactive: Student","Economically inactive: Looking after home or family","Economically inactive: Long-term sick or disabled","Economically inactive: Other","2021 super output area - lower layer","mnemonic"
-
 1,1212,706,676,579,163,416,19,7,12,78,44,34,30,23,19,18,16,2,0,0,0,1,0,1,4,483,373,45,23,19,23,"Leeds 001A","E01011698"
 2,1100,595,586,495,128,367,15,3,12,76,34,42,9,18,14,14,13,1,0,0,0,0,0,0,4,487,414,29,15,12,17,"Leeds 001B","E01011699"
 3,1144,628,609,514,139,375,10,4,6,85,42,43,19,18,14,14,13,1,0,0,0,0,0,0,4,498,391,44,22,23,18,"Leeds 001C","E01011701"
@@ -495,12 +487,5 @@
 486,1578,951,902,809,221,588,19,3,16,74,17,57,49,36,29,27,16,11,1,1,0,1,0,1,7,591,217,81,94,138,61,"Leeds 112B","E01011468"
 487,1047,620,592,514,154,360,11,4,7,67,28,39,28,14,13,13,9,4,0,0,0,0,0,0,1,413,216,41,49,62,45,"Leeds 112C","E01011470"
 488,2497,1947,1897,1770,101,1669,17,2,15,110,31,79,50,108,67,56,39,17,2,1,1,9,9,0,41,442,18,344,29,4,47,"Leeds 112F","E01035054"
-
-
-
-"","In order to protect against disclosure of personal information, records"
-"","have been swapped between different geographic areas and counts perturbed"
-"","by small amounts. Small counts at the lowest geographies will be most"
-"","affected."
 "",""
 
