@@ -1,12 +1,4 @@
-
-"TS045 - Car or van availability"
-"ONS Crown Copyright Reserved [from Nomis on 8 May 2025]"
-"Population :","All households"
-"Units      :","Households"
-"Date       :","2021"
-
 "2021 super output area - middle layer","mnemonic","Total: All households","No cars or vans in household","1 car or van in household","2 cars or vans in household","3 or more cars or vans in household"
-
 "Leeds 001","E02002330",100.0,9.2,38.8,41.3,10.7
 "Leeds 002","E02002331",100.0,20.7,43.6,28.3,7.3
 "Leeds 003","E02002332",100.0,16.9,43.5,31.0,8.6
@@ -114,12 +106,3 @@
 "Leeds 110","E02006861",100.0,43.4,34.9,14.2,7.5
 "Leeds 111","E02006875",100.0,66.9,28.6,4.0,0.4
 "Leeds 112","E02006876",100.0,46.7,39.6,12.1,1.6
-
-
-
-"","In order to protect against disclosure of personal information, records"
-"","have been swapped between different geographic areas and counts perturbed"
-"","by small amounts. Small counts at the lowest geographies will be most"
-"","affected."
-"",""
-
