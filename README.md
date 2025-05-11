@@ -1,5 +1,6 @@
 # About this assignment
-##Introduction
+## Introduction
+
 With continued economic growth and rising living standards, automobiles have become an increasingly important means of transportation for many households (Dargay, Gately and Sommer, 2007). A higher employment rate typically suggests increased household incomes and greater purchasing power, which may further stimulate the consumption of durable goods such as automobiles (McCarthy, 1996).
 However, automobile ownership is not only influenced by economic and employment factors, but also by the specific urban environment, such as the development of city infrastructure and legal or regulatory restrictions. Although it is widely believed that there is a certain correlation between employment rate and automobile ownership, the specific relationship still requires further analysis and validation(Ingram and Liu, 1999).. 
 This study aims to analyse the relationship between employment rate and automobile ownership. By collecting data and applying programming-based statistical methods, we seek to reveal whether there is a significant correlation between the two, thereby providing data-driven references for urban planning and economic policy-making(Zhao, Lu and De Roo, 2011)..
@@ -10,7 +11,8 @@ This study aims to analyse the relationship between employment rate and automobi
 
 
 
-#reference
+## reference
+
 Buehler, R. & Pucher, J. (2012) ‘Demand for public transport in Germany and the USA: An analysis of rider characteristics’, Transport Reviews, 32(5), pp. 541–567. Available at:
 https://www.tandfonline.com/doi/full/10.1080/01441647.2012.707695 (Accessed: 11 May 2025).
 
