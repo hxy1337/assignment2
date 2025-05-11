@@ -29,13 +29,12 @@ If readers are interested in exploring similar or other datasets, they can simpl
 ## reference
 
 
-Ingram, G.K. & Liu, Z. (1999) ‘Determinants of motorization and road provision’, The World Bank Research Observer, 14(2), pp. 287–303. Available at:
+Ingram, G.K. & Liu, Z. (1999) ‘Determinants of motorization and road provision’. *The World Bank Research Observer.* [online]. 14(2), pp. 287–303. [Accessed 10 May 2025]. Available from:
 https://doi.org/10.1093/wbro/14.2.287 (Accessed: 11 May 2025).
 
 
-McCarthy, P.S. (1996) ‘Market price and income elasticities of new vehicle demand’, The Review of Economics and Statistics, 78(3), pp. 543–547. Available at:
+McCarthy, P.S. (1996) ‘Market price and income elasticities of new vehicle demand’. *The Review of Economics and Statistics.* [online]. 78(3), pp. 543–547. [Accessed 10 May 2025]. Available from:
 https://www.jstor.org/stable/2109793 (Accessed: 11 May 2025).
 
 
-Zhao, P., Lu, B. & De Roo, G. (2011) ‘The impact of urban growth on travel demand and urban mobility: A case study of Beijing’, Transportation Research Record, 2243(1), pp. 1–8. Available at:
-https://journals.sagepub.com/doi/10.3141/2243-01 (Accessed: 11 May 2025).
+Zhao, P., Lu, B. & De Roo, G. (2011) ‘The impact of urban growth on travel demand and urban mobility: A case study of Beijing’. *Transportation Research Record.* [online]. 2243(1), pp. 1–8. [Accessed 10 May 2025]. Available from: https://journals.sagepub.com/doi/10.3141/2243-01 (Accessed: 11 May 2025).
