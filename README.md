@@ -21,6 +21,9 @@ The purpose of the programming in this study is to identify the most suitable va
 
 ## Before running
 
+All steps in this study are relatively rigorous, though not highly flexible. Readers do not need to add any extra code—simply clicking “Run” is sufficient to understand the content of this research. Numerous Markdown cells are included, providing the author’s reasoning behind each step, such as specific findings, explanations for data cleaning decisions, or choices made in the visualisation process. However, even without reading these Markdown explanations, the code and its comments are sufficient to convey the overall logic of the workflow.
+
+If readers are interested in exploring similar or other datasets, they can simply follow this template, modifying the file names or variable names as needed, and repeat the entire process to carry out research with different data.
 
 
 ## reference
