@@ -25,6 +25,8 @@ All steps in this study are relatively rigorous, though not highly flexible. Rea
 
 If readers are interested in exploring similar or other datasets, they can simply follow this template, modifying the file names or variable names as needed, and repeat the entire process to carry out research with different data.
 
+## Acknowledgment
+I acknowledge the use of ChatGPT-3.5 and GPT-4.1-mini (OpenAI, https://chat.openai.com/) for learning coding, translating my draft from Chinese to English, and correcting my grammar.
 
 ## reference
 
