@@ -13,6 +13,10 @@ In this study, Leeds, UK, is selected as the sample area. The data used in this 
 
 The second category consists of geographic data, which is obtained from https://geoportal.statistics.gov.uk/. Since the MSOA geographic data covers the whole of the UK and the dataset is very large, it was processed to include only the Leeds area and then converted to the GeoJSON format before being uploaded to GitHub.
 
+Data1：https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=2083
+Data2：https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=2063
+Data3：https://geoportal.statistics.gov.uk/datasets/12baf1e6a44441208ffe5ba5ed063a68_0/explore
+
 ## About code
 
 The main programming technologies used in this study include Python for data processing and analysis, with libraries such as Pandas for data manipulation, NumPy for numerical operations, and Matplotlib and Seaborn for data visualization. For spatial data processing and mapping, GeoPandas was utilised. Additionally, Jupyter Notebook served as the primary environment for code development, documentation, and presentation.
